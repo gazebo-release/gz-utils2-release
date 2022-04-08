@@ -6,7 +6,7 @@ Priority: extra
 Build-Depends: cmake,
                debhelper (>= 7.0.50~),
                doxygen,
-               libignition-cmake3-dev (>= 2.7.0)
+               libignition-cmake3-dev
 Vcs-Browser: https://github.com/ignitionrobotics/ign-utils2-release
 Vcs-Git: https://github.com/ignitionrobotics/ign-utils2-release
 Homepage: https://github.com/ignitionrobotics/ign-utils
