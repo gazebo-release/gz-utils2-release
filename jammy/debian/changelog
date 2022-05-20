@@ -1,3 +1,9 @@
+gz-utils2 (1.999.999-2~jammy) jammy; urgency=medium
+
+  * Change package source name
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 20 May 2022 22:04:52 +0200
+
 ignition-utils2 (1.999.999-1~jammy) jammy; urgency=medium
 
   * Stub to be removed after first entry
