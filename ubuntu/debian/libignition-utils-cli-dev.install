@@ -1,4 +1,4 @@
-usr/include/+(ignition|gz)/*/+(ignition|gz)/utils/cli/*
-usr/include/+(ignition|gz)/*/+(ignition|gz)/utils/cli.hh
-usr/lib/*/pkgconfig/+(ignition|gz)-utils?-cli.pc
-usr/lib/*/cmake/+(ignition|gz)-utils?-cli/*
+usr/include/*/*/*/utils/cli/*
+usr/include/*/*/*/utils/cli.hh
+usr/lib/*/pkgconfig/*-utils?-cli.pc
+usr/lib/*/cmake/*-utils?-cli/*

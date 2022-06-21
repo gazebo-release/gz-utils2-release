@@ -1,5 +1,5 @@
 usr/include/*
 usr/lib/*/*.so
 usr/lib/*/pkgconfig/*.pc
-usr/lib/*/cmake/+(ignition|gz)-utils*/*
-usr/share/+(ignition|gz)/*/*
+usr/lib/*/cmake/*-utils*/*
+usr/share/*/*/*
