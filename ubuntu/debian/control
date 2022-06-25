@@ -19,7 +19,7 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
 Replaces: libignition-utils (<< 1.0.0)
 Provides: libignition-utils
-Description: Gazebo Robotics Utils Library - Shared library
+Description: Gazebo Utils Library - Shared library
 
 Package: libgz-utils2-dev
 Architecture: any
@@ -30,7 +30,7 @@ Depends: libgz-utils2 (= ${binary:Version}),
 Multi-Arch: same
 Replaces: libignition-utils-dev (<< 1.0.0)
 Breaks: libignition-utils-dev (<< 1.0.0)
-Description: Gazebo Robotics Utils Library - Development files
+Description: Gazebo Utils Library - Development files
 
 Package: libgz-utils2-cli-dev
 Architecture: any
@@ -48,7 +48,7 @@ Depends:
      libgz-utils2 (= ${binary:Version}),
      ${misc:Depends}
 Multi-Arch: same
-Description: Gazebo Robotics Utils Library - Debugging symbols
+Description: Gazebo Utils Library - Debugging symbols
 
 Package: libignition-utils2
 Depends: libgz-utils2, ${misc:Depends}
