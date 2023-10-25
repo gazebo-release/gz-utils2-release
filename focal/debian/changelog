@@ -1,3 +1,9 @@
+gz-utils2 (2.2.0~pre2-1~focal) focal; urgency=medium
+
+  * gz-utils2 2.2.0~pre2-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 25 Oct 2023 17:10:20 +0200
+
 gz-utils2 (2.2.0~pre1-1~focal) focal; urgency=medium
 
   * gz-utils2 2.2.0~pre1-1 release
