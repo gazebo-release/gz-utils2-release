@@ -1,3 +1,9 @@
+gz-utils2 (2.2.0-1~jammy) jammy; urgency=medium
+
+  * gz-utils2 2.2.0-1 release
+
+ -- Michael Carroll <mjcarroll@intrinsic.ai>  Wed, 08 Nov 2023 16:59:16 +0000
+
 gz-utils2 (2.2.0~pre3-1~jammy) jammy; urgency=medium
 
   * gz-utils2 2.2.0~pre3-1 release
