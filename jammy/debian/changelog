@@ -1,3 +1,9 @@
+gz-utils2 (2.2.1-1~jammy) jammy; urgency=medium
+
+  * gz-utils2 2.2.1-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Tue, 04 Feb 2025 17:07:09 -0600
+
 gz-utils2 (2.2.0-1~jammy) jammy; urgency=medium
 
   * gz-utils2 2.2.0-1 release
